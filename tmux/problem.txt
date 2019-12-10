@@ -1,0 +1,24 @@
+how to copy between different window presudo terminal?
+
+what is tmux mark?
+
+how to set pane layout?
+
+adjust pane size?
+
+window
+	open/close window
+	show window list
+	switch window
+	name a window
+
+switch session
+	open/close session
+	show session list
+	switch session
+	name a session
+
+custom key-binding?
+
+
+
