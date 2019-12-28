@@ -22,3 +22,5 @@ custom key-binding?
 
 
 
+
+ command-prompt [-1Ni] [-I inputs] [-p prompts] [-t target-client]
