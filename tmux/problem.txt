@@ -20,7 +20,7 @@ switch session
 
 custom key-binding?
 
+command-prompt [-1Ni] [-I inputs] [-p prompts] [-t target-client]
 
 
-
- command-prompt [-1Ni] [-I inputs] [-p prompts] [-t target-client]
+bind is alias for bind-key
