@@ -93,9 +93,32 @@ sessions
 window:
 	create a window:
 		c           Create a new window.
+		tmux new-window
 	show windows:
 		tmux list-windows	
 	change window:
 		next window C-b n
 		previous window C-b p	
+		C-b 0-9
+
+
+keys
+	prefix key table
+	root table      
+	custom key tables		
+
+	tmux list-keys show all keys
+
+
+
+bind-key mode
+	-T copy-mode
+	-T copy-mode-vi
+	-T prefix
+	-r -T prefix
+
+
+without -T: bound in the prefix key table <=> defaut table <=> C-b + key
+-r: repeat, key may repeat, see repeate-time option  
+
 

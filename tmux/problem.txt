@@ -24,3 +24,9 @@ command-prompt [-1Ni] [-I inputs] [-p prompts] [-t target-client]
 
 
 bind is alias for bind-key
+	tmux bind-key h select-pane -L
+	
+	
+how to remove C-r key map in mac
+
+what is buffer
