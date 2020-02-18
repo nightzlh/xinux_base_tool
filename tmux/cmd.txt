@@ -122,3 +122,6 @@ without -T: bound in the prefix key table <=> defaut table <=> C-b + key
 -r: repeat, key may repeat, see repeate-time option  
 
 
+tmux swap-window [-d] [-s src-window] [-t dst-window]
+
+
