@@ -43,3 +43,9 @@ EXAMPLES
 prefix key table
 root table
 custom key tables
+
+commnad-prompt
+	templat: If template is specified, it is used as the command.
+	-I: is a comma-separated list of the initial text for each prompt.  
+	-P:  If -p is given, prompts is a comma-separated list of prompts which are displayed in order 
+ 		
